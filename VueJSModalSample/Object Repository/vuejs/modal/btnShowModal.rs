@@ -3,7 +3,7 @@
    <description></description>
    <name>btnShowModal</name>
    <tag></tag>
-   <elementGuidId>32d145ea-8e06-4e76-9558-f878e9279b9c</elementGuidId>
+   <elementGuidId>da9c1bee-9059-41c9-9f0e-db4f9683a1cd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -25,12 +25,5 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
-      <type>Main</type>
-      <value>Object Repository/vuejs/modal/iframeResult</value>
    </webElementProperties>
 </WebElementEntity>

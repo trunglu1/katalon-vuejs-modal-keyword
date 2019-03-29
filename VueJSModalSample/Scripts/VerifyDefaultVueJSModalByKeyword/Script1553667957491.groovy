@@ -44,3 +44,4 @@ assert ModalKeywords.getModalContentText(to).contains('Hey, I am Opened...')
 // Close modal
 ModalKeywords.clickConfirmButtonByText(to, 'Close')
 
+WebUI.closeBrowser()

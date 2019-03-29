@@ -3,7 +3,7 @@
    <description></description>
    <name>iframeExamples</name>
    <tag></tag>
-   <elementGuidId>a8ed9a5f-8198-4442-bf3f-8429fac080c8</elementGuidId>
+   <elementGuidId>29e3a8a4-b0ac-4cec-8d98-c0485e78aa44</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>

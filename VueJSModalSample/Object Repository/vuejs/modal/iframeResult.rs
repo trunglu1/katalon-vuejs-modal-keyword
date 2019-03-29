@@ -3,11 +3,11 @@
    <description></description>
    <name>iframeResult</name>
    <tag></tag>
-   <elementGuidId>e55f8945-1152-44e0-8e6d-3621257a3b19</elementGuidId>
+   <elementGuidId>a6243969-ad4c-4978-ae8e-8d02c15956f3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//iframe[contains(@src, '//fiddle.jshell.net/yyx990803/mwLbw11k/show/light/')]</value>
+         <value>//iframe[contains(@src, '//fiddle.jshell.net/yyx990803/mwLbw11k/show/light/') and @ref_element = 'Object Repository/vuejs/modal/iframeExamples']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -25,12 +25,5 @@
       <name>src</name>
       <type>Main</type>
       <value>//fiddle.jshell.net/yyx990803/mwLbw11k/show/light/</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
-      <type>Main</type>
-      <value>Object Repository/vuejs/modal/iframeExamples</value>
    </webElementProperties>
 </WebElementEntity>
